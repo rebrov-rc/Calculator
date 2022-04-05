@@ -11,6 +11,6 @@ public class App {
         int b = calc.minus.apply(1,1);
         int c = calc.divide.apply(a, b);
 
-        calc.print.accept(c); 
+        calc.print.accept(c);  
     }
 }
